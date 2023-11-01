@@ -1,6 +1,6 @@
 package com.rodiyah.junitwkpl;
 
-// Membuat class
+// Membuat class kalkulator
 public class Calculator {
 
     public Integer add(Integer first, Integer second) {
